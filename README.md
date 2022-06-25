@@ -1,6 +1,6 @@
 # Stock-market-prediction-using-support-vector-machine
 
-here i will do predictive modelling to help make trade calls
+here i will do predictive modelling to help make trade calls for HDFC bank stock data from 19/09/19 to 01/05/2022
 
 share/stock- part of public company which we can buy or sell
 trading- one person willing to sell another willing to buy
